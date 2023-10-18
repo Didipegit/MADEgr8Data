@@ -1,6 +1,9 @@
 ---
 title: Paralympics
 layout: Assignment 1
+layout: Assignment 2
+layout: Assignment 3
+layout: Assignment 4
 
 ---
 
